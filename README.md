@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Natchawakorn My nickname Kong
 - 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning how to use React Framwork etc. 
+- 🌱 I’m currently learning how to use React Node.js SEO UX/UI etc. 
 - 💞️ I’m looking to collaborate on ...
 Now I am unemployed I want to have a job, Frontend Developer.
 - 📫 How to reach me Tel. 0963562496
